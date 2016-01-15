@@ -21,10 +21,7 @@
   ],
   "author": "Christian Maniewski <chmanie@gmail.com>",
   "dependencies": {
-    "jade": "~1.3.0"
-  },
-  "peerDependencies": {
-    "karma": ">=0.9"
+    "jade": "^1.11.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/chmanie/karma-ng-jade2js-preprocessor",
